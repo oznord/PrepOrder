@@ -1,0 +1,151 @@
+﻿Clé produit,Nom du produit,Quantité,Zone
+P001,Nutella,124,sec
+P002,Lessive OMO,21,DPH
+P003,Shampooing Dove,120,DPH
+P004,Jus d'orange Tropicana,31,liquide
+P005,Pâtes Barilla,37,sec
+P006,Riz Uncle Ben's,189,sec
+P007,Eau minérale Evian,137,liquide
+P008,Biscottes Heudebert,118,sec
+P009,Confiture Bonne Maman,200,sec
+P010,Café Nespresso,92,liquide
+P011,Lait demi-écrémé Candia,16,liquide
+P012,Chocolat Lindt,124,sec
+P013,Farine Francine,41,sec
+P014,Savon Le Petit Marseillais,103,DPH
+P015,Dentifrice Colgate,176,DPH
+P016,Gel douche Axe,43,DPH
+P017,Thé Lipton,139,liquide
+P018,Bière Heineken,173,liquide
+P019,Fromage Président,162,sec
+P020,Yaourts Activia,167,sec
+P021,Compote Andros,190,sec
+P022,Huile d'olive Puget,55,sec
+P023,Saucisson Cochonou,30,sec
+P024,Sirop Teisseire,87,sec
+P025,Miel Lune de Miel,110,sec
+P026,Soda Coca-Cola,142,liquide
+P027,Papier toilette Lotus,126,DPH
+P028,Eau gazeuse Perrier,165,liquide
+P029,Lessive Ariel,126,DPH
+P030,Savon de Marseille,160,DPH
+P031,Nutriscore Biscuits,31,sec
+P032,Corn Flakes Kellogg's,43,sec
+P033,Poisson Pané Findus,69,sec
+P034,Céréales Fitness,60,sec
+P035,Bonbons Haribo,30,sec
+P036,Purée Mousline,147,sec
+P037,Petits pois Cassegrain,137,sec
+P038,Tomate pelée Mutti,174,sec
+P039,Conserves de thon Saupiquet,187,sec
+P040,Chips Lays,168,sec
+P041,Mayonnaise Amora,67,sec
+P042,Bière Kronenbourg,194,liquide
+P043,Vin rouge Bordeaux,83,liquide
+P044,Moutarde de Dijon Maille,196,sec
+P045,Vinaigre balsamique,138,liquide
+P046,Eau de Javel,46,liquide
+P047,Liquide vaisselle Paic,32,DPH
+P048,Beurre doux Président,73,sec
+P049,Crème fraîche Elle & Vire,115,sec
+P050,Yaourts Danone,100,sec
+P051,Saucisses Herta,169,sec
+P052,Jambon Madrange,12,sec
+P053,Crème dessert Mont Blanc,63,sec
+P054,Fromage râpé Emmental,173,sec
+P055,Pizza surgelée Buitoni,85,sec
+P056,Cordon bleu Père Dodu,149,sec
+P057,Steak haché Charal,80,sec
+P058,Glace Ben & Jerry's,15,sec
+P059,Nuggets de poulet,155,sec
+P060,Baguette précuite Pasquier,38,sec
+P061,Galettes St Michel,111,sec
+P062,Gâteau marbré Savane,85,sec
+P063,Pain de mie Harrys,21,sec
+P064,Sauce bolognaise Panzani,107,sec
+P065,Yaourt grec,24,sec
+P066,Légumes grillés Bonduelle,99,sec
+P067,Soupe Royco,134,sec
+P068,Tartines craquantes Wasa,195,sec
+P069,Poisson surgelé Iglo,112,sec
+P070,Thon en boîte Petit Navire,146,sec
+P071,Soda Fanta,75,liquide
+P072,Thé glacé Arizona,44,sec
+P073,Jus de pomme Andros,133,liquide
+P074,Lentilles cuisinées,81,sec
+P075,Haricots verts Bonduelle,51,sec
+P076,Pâté Hénaff,191,sec
+P077,Petit pot de bébé Blédina,56,sec
+P078,Bouillon Kub Maggi,130,DPH
+P079,Chocolat Milka,53,sec
+P080,Glace Magnum,16,sec
+P081,Biscuits Oréo,124,sec
+P082,Sirop d'érable Maple Joe,135,sec
+P083,Crackers Ritz,143,sec
+P084,Pâtes Lustucru,21,sec
+P085,Bâtonnets de crabe Coraya,179,sec
+P086,Fromage Babybel,13,sec
+P087,Dessert au soja Sojasun,104,sec
+P088,Salade verte,175,sec
+P089,Coca-Cola Light,150,sec
+P090,Sardines Connétable,123,sec
+P091,Crème de marrons Clément Faugier,66,sec
+P092,Huile Isio 4,106,sec
+P093,Rillettes de poulet,191,sec
+P094,Sucre en poudre Saint Louis,85,sec
+P095,Confiture d'abricots Bonne Maman,111,sec
+P096,Pains au lait Pasquier,51,sec
+P097,Lait de coco Thaï Kitchen,65,liquide
+P098,Beurre de cacahuète Skippy,31,sec
+P099,Mélange de fruits secs,103,sec
+P100,Chocolat noir Nestlé,80,sec
+P101,Jambon bio Madrange,108,sec
+P102,Pâte à tartiner Nutella,116,sec
+P103,Poudre à lever Alsa,179,DPH
+P104,Herbes de Provence Ducros,41,sec
+P105,Sablés pur beurre Michel et Augustin,193,sec
+P106,Tortillas Old El Paso,121,sec
+P107,Café soluble Nescafé,189,liquide
+P108,Couscous Tipiak,25,sec
+P109,Fromage à raclette RichesMonts,147,sec
+P110,Sauce soja Kikkoman,183,sec
+P111,Nems au poulet,10,sec
+P112,Pop-corn micro-ondes Act II,111,sec
+P113,Thé vert Twinnings,111,liquide
+P114,Ketchup Heinz,60,sec
+P115,Mélange de légumes Picard,15,sec
+P116,Surgelés Findus,172,sec
+P117,Poisson fumé Labeyrie,44,sec
+P118,Tofu bio,83,sec
+P119,Barres chocolatées Mars,185,sec
+P120,Pâte à pizza Herta,118,sec
+P121,Yaourt nature Danone,93,sec
+P122,Fromage Saint Agur,104,sec
+P123,Miel bio Lune de Miel,53,sec
+P124,Pâte feuilletée Croustipate,79,sec
+P125,Mélange apéritif Croustilles,25,sec
+P126,Crème dessert Danette,153,sec
+P127,Salade composée Florette,76,sec
+P128,Pain grillé Monoprix,111,sec
+P129,Vin blanc Chardonnay,101,liquide
+P130,Rosé de Provence,182,sec
+P131,Champagne Moët & Chandon,86,liquide
+P132,Tartare de saumon,135,sec
+P133,Saumon fumé norvégien,10,sec
+P134,Thon mariné,131,sec
+P135,Rillettes de thon,70,sec
+P136,Cornichons Maille,58,sec
+P137,Crème liquide Président,75,sec
+P138,Haricots en conserve,153,sec
+P139,Frites surgelées McCain,191,sec
+P140,Riz basmati Tilda,95,sec
+P141,Gnocchis à poêler Lustucru,14,sec
+P142,Spaghettis complètes Bio,145,sec
+P143,Fruits en compote Andros,149,sec
+P144,Purée bio Topinambour,58,sec
+P145,Jus multifruits Pago,55,liquide
+P146,Glace carte d'or,154,sec
+P147,Brownie industriel,175,sec
+P148,Tarte aux fraises Marie,67,sec
+P149,Yaourt à boire Yoplait,122,liquide
+P150,Crème glacée Mövenpick,115,sec
